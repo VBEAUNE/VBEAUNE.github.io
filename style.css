@@ -4,7 +4,7 @@ body{
 }
 .background{
 
-    background-image: url('montagne.jpg');
+    background-image: url('/Contact/monfondGIT.jpg');
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
