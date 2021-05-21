@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h2{
+background-color: grey;
+color: honeydew;
+font-size: 3em;
+text-align: center;
+padding-right: 50px;
+padding-left: 50px;
+}
+a{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 2px;
+    text-decoration: none;
+    font-weight: bold;
+    color: ivory;
+    
+}
+.monBackground{
+    height: 100vh;
+    background-image: url(image/lyon.png);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction: column;
+    justify-content: space-between;
+    
+
+}
+.maNavBar{
+background-color: crimson;
+height: 15vh;
+padding: 20px;
+display:flex;
+justify-content: space-between;
+text-transform: uppercase;
+align-items: center;
+}
+
+
+.monLogo{
+display: flex;
+justify-content:flex-start;
+height: 70px;
+width: 70px;
+
+}
+
+form{
+    display: flex;
+    width:80vh;
+    justify-content: center;
+    padding: 10px;
+}
+.pagePart2{
+height: 85vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-around;
+}
+.monCadreImg{
+    height:30vh;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.monBoutonAnnonce{
+    width: 300px;
+    display: flex;
+    background-color: #16d37b;
+    color: ivory;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+img{
+    max-height: 40vh;
+    max-width: 40vh;
+    margin: 10px;
+}
+.restePage{
+    height: 100vh;
+    width:100vh;
+    display: flex;
+    flex-direction: row;
+}
+ .basDePage{
+height:30vh;
+background-color: khaki;
+ }
+ .btn {
+background-color: #198754;
+ }
+ img{
+     justify-content: center;
+     align-items: center;
+ }
+ 
