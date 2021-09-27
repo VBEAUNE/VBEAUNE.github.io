@@ -5,7 +5,7 @@ body{
 }
 .background{
 
-    background-image: url('workinprog.jpg');
+    background-image: url('/workinprog.jpg');
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
